@@ -13,9 +13,9 @@ public class Sa {
 		}
 		
 		if (a==res) {
-			System.out.println("yes");
+			System.out.println("yes its a palindrome");
 		}else {
-			System.out.println("no");
+			System.out.println("no, its not a polindrome");
 		}
 	}
 	
